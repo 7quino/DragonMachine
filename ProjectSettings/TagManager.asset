@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Training
+  - SuperGem
+  - ChunkGem
+  - RadarGem
+  - Troll
+  - Machine
+  - LeftJoystick
+  - monster
+  - Cave
+  - Stone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Controlls
+  - Cockpit
+  - RadarElements
+  - Player
+  - PlayerMenu
+  - Cave
+  - Gems
+  - Machine
+  - Ghosts
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
